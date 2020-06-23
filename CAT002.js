@@ -229,6 +229,9 @@ function handler05() {
         'text-anchor': 'middle'
     });
 
+    var audio26 = new Audio('aud/aud_26.wav');
+    audio26.play();
+
     setTimeout(function() {
         group.remove();
     }, 1000);
@@ -244,6 +247,9 @@ function handler06() {
         'font-size': 50,
         'text-anchor': 'middle'
     });
+
+    var audio27 = new Audio('aud/aud_27.wav');
+    audio27.play();
 
     setTimeout(function() {
         group.remove();
@@ -261,6 +267,9 @@ function handler07() {
         'text-anchor': 'middle'
     });
 
+    var audio28 = new Audio('aud/aud_28.wav');
+    audio28.play();
+
     setTimeout(function() {
         group.remove();
     }, 1000);
@@ -276,6 +285,9 @@ function handler08() {
         'font-size': 50,
         'text-anchor': 'middle'
     });
+
+    var audio29 = new Audio('aud/aud_29.wav');
+    audio29.play();
 
     setTimeout(function() {
         group.remove();
@@ -293,6 +305,9 @@ function handler09() {
         'text-anchor': 'middle'
     });
 
+    var audio30 = new Audio('aud/aud_30.wav');
+    audio30.play();
+
     setTimeout(function() {
         group.remove();
     }, 1000);
@@ -308,6 +323,9 @@ function handler10() {
         'font-size': 50,
         'text-anchor': 'middle'
     });
+
+    var audio31 = new Audio('aud/aud_31.wav');
+    audio31.play();
 
     setTimeout(function() {
         group.remove();
@@ -325,6 +343,9 @@ function handler11() {
         'text-anchor': 'middle'
     });
 
+    var audio32 = new Audio('aud/aud_32.wav');
+    audio32.play();
+
     setTimeout(function() {
         group.remove();
     }, 1000);
@@ -340,6 +361,9 @@ function handler12() {
         'font-size': 50,
         'text-anchor': 'middle'
     });
+
+    var audio33 = new Audio('aud/aud_33.wav');
+    audio33.play();
 
     setTimeout(function() {
         group.remove();
@@ -357,6 +381,9 @@ function handler13() {
         'text-anchor': 'middle'
     });
 
+    var audio34 = new Audio('aud/aud_34.wav');
+    audio34.play();
+
     setTimeout(function() {
         group.remove();
     }, 1000);
@@ -372,6 +399,9 @@ function handler14() {
         'font-size': 50,
         'text-anchor': 'middle'
     });
+
+    var audio35 = new Audio('aud/aud_35.wav');
+    audio35.play();
 
     setTimeout(function() {
         group.remove();
@@ -389,6 +419,9 @@ function handler15() {
         'text-anchor': 'middle'
     });
 
+    var audio36 = new Audio('aud/aud_36.wav');
+    audio36.play();
+
     setTimeout(function() {
         group.remove();
     }, 1000);
@@ -404,6 +437,9 @@ function handler16() {
         'font-size': 50,
         'text-anchor': 'middle'
     });
+
+    var audio37 = new Audio('aud/aud_37.wav');
+    audio37.play();
 
     setTimeout(function() {
         group.remove();
@@ -421,6 +457,9 @@ function handler17() {
         'text-anchor': 'middle'
     });
 
+    var audio38 = new Audio('aud/aud_38.wav');
+    audio38.play();
+
     setTimeout(function() {
         group.remove();
     }, 1000);
@@ -436,6 +475,9 @@ function handler18() {
         'font-size': 50,
         'text-anchor': 'middle'
     });
+
+    var audio39 = new Audio('aud/aud_39.wav');
+    audio39.play();
 
     setTimeout(function() {
         group.remove();
@@ -453,6 +495,9 @@ function handler19() {
         'text-anchor': 'middle'
     });
 
+    var audio40 = new Audio('aud/aud_40.wav');
+    audio40.play();
+
     setTimeout(function() {
         group.remove();
     }, 1000);
@@ -468,6 +513,9 @@ function handler20() {
         'font-size': 50,
         'text-anchor': 'middle'
     });
+
+    var audio41 = new Audio('aud/aud_41.wav');
+    audio41.play();
 
     setTimeout(function() {
         group.remove();
@@ -485,6 +533,9 @@ function handler21() {
         'text-anchor': 'middle'
     });
 
+    var audio42 = new Audio('aud/aud_42.wav');
+    audio42.play();
+
     setTimeout(function() {
         group.remove();
     }, 1000);
@@ -500,6 +551,9 @@ function handler22() {
         'font-size': 50,
         'text-anchor': 'middle'
     });
+
+    var audio43 = new Audio('aud/aud_43.wav');
+    audio43.play();
 
     setTimeout(function() {
         group.remove();
@@ -517,6 +571,9 @@ function handler23() {
         'text-anchor': 'middle'
     });
 
+    var audio44 = new Audio('aud/aud_44.wav');
+    audio44.play();
+
     setTimeout(function() {
         group.remove();
     }, 1000);
@@ -532,6 +589,9 @@ function handler24() {
         'font-size': 50,
         'text-anchor': 'middle'
     });
+
+    var audio45 = new Audio('aud/aud_45.wav');
+    audio45.play();
 
     setTimeout(function() {
         group.remove();
@@ -550,6 +610,9 @@ function handler25() {
         'text-anchor': 'middle'
     });
 
+    var audio46 = new Audio('aud/aud_46.wav');
+    audio46.play();
+
     setTimeout(function() {
         group.remove();
     }, 1000);
@@ -565,6 +628,9 @@ function handler26() {
         'font-size': 50,
         'text-anchor': 'middle'
     });
+
+    var audio47 = new Audio('aud/aud_47.wav');
+    audio47.play();
 
     setTimeout(function() {
         group.remove();
@@ -582,6 +648,9 @@ function handler27() {
         'text-anchor': 'middle'
     });
 
+    var audio48 = new Audio('aud/aud_48.wav');
+    audio48.play();
+
     setTimeout(function() {
         group.remove();
     }, 1000);
@@ -598,6 +667,9 @@ function handler28() {
         'text-anchor': 'middle'
     });
 
+    var audio49 = new Audio('aud/aud_49.wav');
+    audio49.play();
+
     setTimeout(function() {
         group.remove();
     }, 1000);
@@ -613,6 +685,9 @@ function handler29() {
         'font-size': 50,
         'text-anchor': 'middle'
     });
+
+    var audio50 = new Audio('aud/aud_50.wav');
+    audio50.play();
 
     setTimeout(function() {
         group.remove();
